@@ -1,2 +1,1 @@
-
-no its a text file
+ its a text file
